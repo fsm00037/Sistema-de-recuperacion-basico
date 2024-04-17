@@ -1,0 +1,18 @@
+{
+    "idioma": "es",
+    "rutaXML": "data",
+    "etiquetasXML": ["title","subject", "description","creator"],
+    "rutaResultadosETL": "resultados\\etl",
+    "rutaResultadosStopper": "resultados\\stopper",
+    "rutaResultadosStemmer": "resultados\\stemmer",
+    "rutaIndiceInvertido": "indices\\indice_invertido.pkl",
+    "rutaTerm2id": "indices\\term2id.pkl",
+    "rutaId2term": "indices\\id2term.pkl",
+    "rutaDoc2id": "indices\\doc2id.pkl",
+    "rutaId2doc": "indices\\id2doc.pkl",
+    "rutaTokensParaIndexar":"resultados\\stemmer",
+    "rutaPesos":"indices\\pesos.pkl",
+    "rutaIdfs":"indices\\idfs.pkl",
+    "rutaQueris":"queries.txt",
+    "rutaResultadoQueries":"resultados\\resultadoCompacto.txt"
+}
